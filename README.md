@@ -1,1 +1,7 @@
 # SoftwareTestAutomationAndQA
+# How can I ensure that my code, program, or software is functional and secure?
+The main thing I can do to ensure my code, program or software is functional and secure is to test it extensively.  Each unit of code should be tested individually using unit tests.  Following unit testing, the units of code should be integrated and tested further with integration, system, and acceptance testing.  All testing should be done with the business requirements of the client in mind.
+# How do I interpret user needs and incorporate them into a program?
+The first step in any software development process is to elicit the requirements from a client and design software according to these requirements.  The client's requirements should be clarified as much as possible and should be used to design the software as well as the testing of the software.  Interpreting the user's needs correctly and testing the software according to the user's needs will lead to high quality software products.
+# How do I approach designing software?
+My approach for designing software will be to adhere as closely as possible to the client's requirements to ensure that my software will meet their business needs.  I will also test my software extensively to ensure that it functions as expected with as few errors and vulnerabilities as possible.  I will try to be as consistent as possible across all design projects to ensure high quality code.
